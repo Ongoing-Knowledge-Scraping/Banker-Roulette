@@ -7,7 +7,7 @@ Using str.split(', ') with the random module to randomly select from a list of n
 
 ## View on Replit ##
 
-https://replit.com/@kpatzer/Heads-Tails-Coin-Toss
+https://replit.com/@kpatzer/Banker-Roulette
 
 # 💫 About Me:
 🔭 I’m currently working on becoming a Data Analyst<br>👯 I’m looking to collaborate on data cleaning, Python, SQL and Data Analytics projects<br>🤝 I’m looking for help entering the Data Analytics industry and gaining knowledge<br>🌱 I’m currently learning 100 Days of Code: The Complete Python Pro Bootcamp for 2023<br>💬 Ask me about Software Training, LMS Learning Management, Software Implementation, Project Management and Senior-level Techical Support<br>⚡ Fun fact I have a music production / editing suite! And I love drones.
