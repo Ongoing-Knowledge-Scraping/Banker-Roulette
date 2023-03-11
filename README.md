@@ -3,7 +3,7 @@ Using str.split(', ') with the random module to randomly select from a list of n
 
 ## Banker Roulette ##
 
-![Banker Roulette](<https://github.com/Ongoing-Knowledge-Scraping/Banker-Roulette/blob/main/Banker%20Roulette.gif> "Running the code")
+![Banker Roulette](<https://github.com/Ongoing-Knowledge-Scraping/Banker-Roulette/blob/main/Banker-Roulette.gif> "Running the code")
 
 ## View on Replit ##
 
